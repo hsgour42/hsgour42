@@ -26,18 +26,28 @@
 
 
 <p align="center">
-     <h1 align="center">&emsp;**Languages and Tools:** &emsp;</h1>
+     <h2 align="center">&emsp;**Languages and Tools:** &emsp;</h2>
 </p>
 
+<br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,aws,kafka,redis,elasticsearch,mongodb,mysql,java,spring,hibernate,maven,dotnet,react,redux,js,html,css,bootstrap,idea,postman" />
   </a>
 </p>
+<br>
 
 
-- 📫 How to reach me :) 9044211884
-- or Email 📄 :) hsgour42@gmail.com
+<p align="left">
+     <h2 align="center">&emsp;- 📫 How to reach me :) 9044211884 &emsp;</h2>
+</p>
+<br>
+<p align="left">
+     <h2 align="center">&emsp;- or Email 📄 :) hsgour42@gmail.com &emsp;</h2>
+</p>
+<br>
+
+
 
 
 <!---
