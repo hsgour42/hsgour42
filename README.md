@@ -43,7 +43,11 @@
 </p>
 <br>
 <p align="left">
-     <h2 align="center">&emsp;- or Email 📄 :) hsgour42@gmail.com &emsp;</h2>
+     <h2 align="center">&emsp;- 📄 Email :) hsgour42@gmail.com &emsp;</h2>
+</p>
+<br>
+<p align="left">
+     <h2 align="center">&emsp;- 📄 Linkedin :) https://www.linkedin.com/in/himanshu-singh-gour-b3b333195 &emsp;</h2>
 </p>
 <br>
 
