@@ -24,7 +24,11 @@
 </p>
 <br>
 
-**Languages and Tools:**
+
+<p align="center">
+     <h1 align="center">&emsp;**Languages and Tools:** &emsp;</h1>
+</p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,aws,kafka,redis,elasticsearch,mongodb,mysql,java,spring,hibernate,maven,dotnet,react,redux,js,html,css,bootstrap,idea,postman" />
