@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <h1 align="center">✩&emsp; I’m Himanshu Singh Gour &emsp;✩</h1>
+    <h1 align="center"> I’m Himanshu Singh Gour </h1>
 </p>
 
 <p align="center">
