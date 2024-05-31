@@ -47,7 +47,7 @@
 </p>
 <br>
 <p align="left">
-     <h2 align="center">&emsp;- 📄 Linkedin :) https://www.linkedin.com/in/himanshu-singh-gour-b3b333195 &emsp;</h2>
+     <h2 align="center">&emsp;- 📄 Linkedin :) <a href="https://www.linkedin.com/in/himanshusinghgour/">https://www.linkedin.com/in/himanshusinghgour</a> &emsp;</h2>
 </p>
 <br>
 
